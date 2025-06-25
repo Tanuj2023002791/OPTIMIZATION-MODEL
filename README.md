@@ -41,4 +41,8 @@ The objective is to maximize the company’s profit, without exceeding the avail
   - Solution status and practical business insights
 
 ### OUTPUT:
+![Image](https://github.com/user-attachments/assets/0cf831bb-e0a7-4581-86e4-e29f7c8ec841)
+
+
+
 
