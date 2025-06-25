@@ -42,7 +42,24 @@ The objective is to maximize the company’s profit, without exceeding the avail
 
 ### OUTPUT:
 ![Image](https://github.com/user-attachments/assets/0cf831bb-e0a7-4581-86e4-e29f7c8ec841)
+![Image](https://github.com/user-attachments/assets/208cac9e-36d5-469f-993c-b799d7ea1cfa)
 
+## 🏗️ Code Structure
+
+```python
+1. Import PuLP
+2. Describe the business problem
+3. Take user inputs for profits and constraints
+4. Define the LP problem using PuLP
+5. Set decision variables (units of A & B)
+6. Set the objective function (maximize profit)
+7. Add labor and material constraints
+8. Solve the LP problem
+9. Display results and production strategy
+10. Provide business insight based on results
+
+![Image](https://github.com/user-attachments/assets/0cf831bb-e0a7-4581-86e4-e29f7c8ec841)
+![Image](https://github.com/user-attachments/assets/208cac9e-36d5-469f-993c-b799d7ea1cfa)
 
 
 
