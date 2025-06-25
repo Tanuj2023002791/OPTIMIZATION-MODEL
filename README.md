@@ -40,3 +40,5 @@ The objective is to maximize the company’s profit, without exceeding the avail
   - The maximum possible profit
   - Solution status and practical business insights
 
+### OUTPUT:
+
