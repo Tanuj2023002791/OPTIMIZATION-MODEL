@@ -30,13 +30,13 @@ The objective is to maximize the company’s profit, without exceeding the avail
 
 ## ✅ Key Features
 
--Accepts user-defined inputs for:
-  -Per-unit profit of both products
-  -Labor and material usage per unit
-  -Total available labor hours and material units
--Builds and solves a linear programming model
--Delivers:
-  -The best production strategy for both products
-  -The maximum possible profit
-  -Solution status and practical business insights
+- Accepts user-defined inputs for:
+  - Per-unit profit of both products
+  - Labor and material usage per unit
+  - Total available labor hours and material units
+- Builds and solves a linear programming model
+- Delivers:
+  - The best production strategy for both products
+  - The maximum possible profit
+  - Solution status and practical business insights
 
